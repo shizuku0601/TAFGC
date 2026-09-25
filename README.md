@@ -4,7 +4,7 @@
 ### Overall Framework
 
 The usefulness of different modalities varies across a remote sensing scene, motivating locally adaptive fusion. Without category labels, modality-support assessment requires a shared clustering reference that accommodates within-class observation diversity. TAFGC couples adaptive fine-grained discovery with evidential learning: the clustering partition provides a common task for modality assessment, while calibrated support guides fusion and subsequent structural updates.
-![方法框架](images/overview.png)
+![方法框架](image/overview.png)
 
 ### Fine-Grained Discovery (FGD)
 
